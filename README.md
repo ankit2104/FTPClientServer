@@ -1,7 +1,7 @@
 # Simulation of FTP protocol
 
 It has two programs server and client in C to simulate the FTP protocol.
-**Commands implemented**<br/>
+**<br/>Commands implemented**<br/>
 1. USER
 2. PASS 
 3. CDUP
@@ -17,4 +17,4 @@ It has two programs server and client in C to simulate the FTP protocol.
 13. STOR 
 14. RETR 
 
-<br/>
+
